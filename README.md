@@ -15,14 +15,13 @@
 ### 技术文章
 
 - [gitbook插件开发](https://github.com/iuap-design/blog/issues/11)
-- [gitbook使用问题解决方案](https://github.com/iuap-design/blog/issues/9)
 - [使用jekyll快速搭建静态博客](https://github.com/iuap-design/blog/issues/3)
 - [windows上jekyll安装指南](https://github.com/iuap-design/blog/issues/2)
 
 
-### 疑难问题
+### 深度 `BUG` 分析与解决方案
 
-- [暂无]()
+- [gitbook使用问题解决方案](https://github.com/iuap-design/blog/issues/9)
 
 
 ### 工作思考
