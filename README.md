@@ -46,6 +46,7 @@
 - [【插件&框架】webpack 完全教程-09-多入口文件编译](https://github.com/iuap-design/blog/issues/65)
 - [【插件&框架】webpack 完全教程-10-devtool让源码在浏览器中可调试](https://github.com/iuap-design/blog/issues/66)
 - [【插件&框架】iframe ](https://github.com/iuap-design/blog/issues/56)
+- [【插件&框架】director.js：客户端的路由](https://github.com/iuap-design/blog/issues/67)
 - [【CSS】SCSS基础语法与在datatable项目中的运用](https://github.com/iuap-design/blog/issues/17)
 - [【CSS】CSS3 Animation](https://github.com/iuap-design/blog/issues/52)
 - [【CSS】CSS3 transition 笔记](https://github.com/iuap-design/blog/issues/40)
@@ -62,7 +63,6 @@
 - [【其它】Javascript 代码规范](https://github.com/iuap-design/blog/issues/39)
 - [【其它】IE8兼容处理](https://github.com/iuap-design/blog/issues/54)
 - [【其它】HTTP 缓存策略](https://github.com/iuap-design/blog/issues/55)
-- [【其它】director.js：客户端的路由](https://github.com/iuap-design/blog/issues/67)
 - [【其它】material design中的波纹效果的原理与实现](https://github.com/iuap-design/blog/issues/69)
 
 ### 深度 `BUG` 分析与解决方案
