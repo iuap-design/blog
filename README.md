@@ -35,6 +35,17 @@
 - [【插件&框架】自己动手写Knockoutjs - 实现计算属性和计算属性的依赖收集](https://github.com/iuap-design/blog/issues/32)
 - [【插件&框架】自己动手写Knockoutjs - 可监控数组](https://github.com/iuap-design/blog/issues/49)
 - [【插件&框架】自己动手写Knockoutjs - 判断observable对象的方法和更多的绑定](https://github.com/iuap-design/blog/issues/50)
+- [【插件&框架】webpack 完全教程-01-介绍](https://github.com/iuap-design/blog/issues/57)
+- [【插件&框架】webpack 完全教程-02-学习环境](https://github.com/iuap-design/blog/issues/58)
+- [【插件&框架】webpack 完全教程-03-快速上手](https://github.com/iuap-design/blog/issues/59)
+- [【插件&框架】webpack 完全教程-04-webpack 命令行说明](https://github.com/iuap-design/blog/issues/60)
+- [【插件&框架】webpack 完全教程-05-webpack 集成 npm scripts](https://github.com/iuap-design/blog/issues/61)
+- [【插件&框架】webpack 完全教程-06-编译css资源](https://github.com/iuap-design/blog/issues/62)
+- [【插件&框架】webpack 完全教程-07-编译ES6代码](https://github.com/iuap-design/blog/issues/63)
+- [【插件&框架】webpack 完全教程-08-使用UglifyJs Plugin压缩资源](https://github.com/iuap-design/blog/issues/64)
+- [【插件&框架】webpack 完全教程-09-多入口文件编译](https://github.com/iuap-design/blog/issues/65)
+- [【插件&框架】webpack 完全教程-10-devtool让源码在浏览器中可调试](https://github.com/iuap-design/blog/issues/66)
+- [【插件&框架】iframe ](https://github.com/iuap-design/blog/issues/56)
 - [【CSS】SCSS基础语法与在datatable项目中的运用](https://github.com/iuap-design/blog/issues/17)
 - [【CSS】CSS3 Animation](https://github.com/iuap-design/blog/issues/52)
 - [【CSS】CSS3 transition 笔记](https://github.com/iuap-design/blog/issues/40)
@@ -49,6 +60,10 @@
 - [【其它】【转】同步与异步&阻塞与非阻塞](https://github.com/iuap-design/blog/issues/35)
 - [【其它】JS中ScrollTop、ScrollHeight、ClientHeight、OffsetHeight等整理](https://github.com/iuap-design/blog/issues/38)
 - [【其它】Javascript 代码规范](https://github.com/iuap-design/blog/issues/39)
+- [【其它】IE8兼容处理](https://github.com/iuap-design/blog/issues/54)
+- [【其它】HTTP 缓存策略](https://github.com/iuap-design/blog/issues/55)
+- [【其它】director.js：客户端的路由](https://github.com/iuap-design/blog/issues/67)
+- [【其它】material design中的波纹效果的原理与实现](https://github.com/iuap-design/blog/issues/69)
 
 ### 深度 `BUG` 分析与解决方案
 
@@ -60,4 +75,4 @@
 - [第一周工作感悟](https://github.com/iuap-design/blog/issues/10)
 - [6月12-6月17日~工作思考篇](https://github.com/iuap-design/blog/issues/13)
 - [对日常开发的两点建议](https://github.com/iuap-design/blog/issues/16)
-
+- [更少，但更好](https://github.com/iuap-design/blog/issues/68)
