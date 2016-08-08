@@ -11,6 +11,24 @@
 - [【iuap design 源码分析系列】栅格布局源码分析](https://github.com/iuap-design/blog/issues/29)
 - [【iuap design 源码分析系列】dropdown 源码解读](https://github.com/iuap-design/blog/issues/48)
 - [【iuap design 源码分析系列】artTemplate在在官网中的应用](https://github.com/iuap-design/blog/issues/44)
+- [深入理解iuap design-01-介绍](https://github.com/iuap-design/blog/issues/80)
+- [深入理解iuap design-02-当前问题分析](https://github.com/iuap-design/blog/issues/81)
+- [深入理解iuap design-03-破局](https://github.com/iuap-design/blog/issues/82)
+- [深入理解iuap design-04-设计语言](https://github.com/iuap-design/blog/issues/83)
+- [深入理解iuap design-05-neoui前端框架](https://github.com/iuap-design/blog/issues/84)
+- [深入理解iuap design-06-进击的grid](https://github.com/iuap-design/blog/issues/85)
+- [深入理解iuap design-07-前端基础库sparrow.js](https://github.com/iuap-design/blog/issues/86)
+- [深入理解iuap design-08-前端模板库，送给你的秘密花园](https://github.com/iuap-design/blog/issues/87)
+- [深入理解iuap design-09-个性化定制，随性百变](https://github.com/iuap-design/blog/issues/88)
+- [深入理解iuap design-10-丰富的样式板，你要的这里都有](https://github.com/iuap-design/blog/issues/89)
+- [深入理解iuap design-11-web页面设计器](https://github.com/iuap-design/blog/issues/90)
+- [深入理解iuap design-12-情定kero](https://github.com/iuap-design/blog/issues/91)
+- [深入理解iuap design-13-揭开后端datatable的秘密](https://github.com/iuap-design/blog/issues/92)
+- [深入理解iuap design-14-前端集成开发工具uba](https://github.com/iuap-design/blog/issues/93)
+- [深入理解iuap design-15-前端MVVM框架helix](https://github.com/iuap-design/blog/issues/94)
+- [iuap design是我送给你的礼物（1）](https://github.com/iuap-design/blog/issues/97)
+- [NeoUI使用情况全记录](https://github.com/iuap-design/blog/issues/98)
+- [web页面设计器体验详解](https://github.com/iuap-design/blog/issues/95)
 - [框架css梳理](https://github.com/iuap-design/blog/issues/6)
 - [iUAP Design 设计语言](https://github.com/iuap-design/blog/issues/7)
 - [iUAPDesign 主题色与更换机制](https://github.com/iuap-design/blog/issues/22)
@@ -18,9 +36,13 @@
 
 ## `JavaScript` 系列文章
 
-- [JS实现继承的五种方式 ](https://github.com/iuap-design/blog/issues/42)
+- [JS实现继承的五种方式 ](https://github.com/iuap-design/blog/issues/96)
 - [JS中ScrollTop、ScrollHeight、ClientHeight、OffsetHeight等整理](https://github.com/iuap-design/blog/issues/38)
 - [Javascript 代码规范](https://github.com/iuap-design/blog/issues/39)
+- [JavaScript 函数继承的几种方法](https://github.com/iuap-design/blog/issues/96)
+- [正则基础](https://github.com/iuap-design/blog/issues/99)
+- [JavaScript代码覆盖率工具 Istanbul入门](https://github.com/iuap-design/blog/issues/100)
+- [Sass拾遗](https://github.com/iuap-design/blog/issues/101)
 
 ## `CSS` 系列文章
 
@@ -79,6 +101,7 @@
 
 - [前端模板引擎学习](https://github.com/iuap-design/blog/issues/28)
 - [Requirejs简单应用](https://github.com/iuap-design/blog/issues/18)
+- [自己动手写Requirejs](https://github.com/iuap-design/blog/issues/79)
 - [iframe ](https://github.com/iuap-design/blog/issues/56)
 - [director.js：客户端的路由](https://github.com/iuap-design/blog/issues/67)
 - [IE8兼容处理](https://github.com/iuap-design/blog/issues/54)
