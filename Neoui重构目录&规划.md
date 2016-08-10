@@ -48,16 +48,24 @@ Neoui整体由以下几个仓库组成：
 
 ## 仓库基本目录结构
 
-.
 ├── dist 文件最终输出
+
 ├── example 测试用例
+
 ├── gulpfile.js 配置文件
+
 ├── js 原始js目录
+
 ├── lib es6转es5输出目录
+
 ├── package.json 
+
 ├── scss 原始样式文件目录
+
 ├── vendor 第三方依赖库
+
 ├── version.js 头部添加注释文件
+
 └── webpack.config.js 配置文件
 
 
