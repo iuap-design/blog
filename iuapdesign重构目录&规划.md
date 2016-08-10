@@ -4,7 +4,9 @@
 
 整体项目`neoui组件`通过适配器`kero-adapter`，结合数据绑定`kero`，完成整套企业前端应用解决方案。
 
-iuap design整体由以下几个仓库组成：
+iuap design整体由以下多个仓库组成：
+
+其中`NeoUI组件`,`kero-adapter适配器`,`kero数据绑定`,`generate打包输出`为目前主要维护部分。
 
 **1.NeoUI组件**
 
@@ -14,6 +16,7 @@ iuap design整体由以下几个仓库组成：
 * [neoui-grid](https://github.com/iuap-design/neoui-grid):grid表单相关组件
 * [neoui-tree](https://github.com/iuap-design/neoui-tree):tree列表相关组件
 * [neoui-datetimepicker](https://github.com/iuap-design/neoui-datetimepicker):datetimepicker日期相关组件
+
 
 **2.kero-adapter适配器**
 
@@ -34,7 +37,13 @@ iuap design整体由以下几个仓库组成：
 * [generate-uui](https://github.com/iuap-design/generate-uui):打包输出完整文件,包含`u.js`,`u.css`(暂用之前打包名称)
 
 
-**5.uba完整构建方案**
+**5.polyfill**
+
+针对ie8提供polyfill脚本支持实现基本特性
+
+* [neoui-polyfill](https://github.com/iuap-design/neoui-polyfill):针对低版本ie8的polyfill
+
+**6.uba完整构建方案**
 
 * 后续推出，目前使用`gulp+webpack+babel`方案
 
