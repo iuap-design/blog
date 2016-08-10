@@ -17,7 +17,7 @@ iuap design整体由以下几个仓库组成：
 
 **2.kero-adapter适配器**
 
-`NeoUI组件`和`kero数据绑定`的连接器
+`NeoUI组件`和`kero数据绑定`的适配器
 
 * [kero-adapter](https://github.com/iuap-design/kero-adapter):关联ui组件和kero数据绑定
 
