@@ -1,12 +1,12 @@
-## Neoui重构规划
+## iuap design重构规划
 
 ## 仓库目录结构
 
-整体项目`UI组件`通过适配器`kero-adapter`，结合数据绑定`kero`，完成整套企业前端应用解决方案。
+整体项目`neoui组件`通过适配器`kero-adapter`，结合数据绑定`kero`，完成整套企业前端应用解决方案。
 
-Neoui整体由以下几个仓库组成：
+iuap design整体由以下几个仓库组成：
 
-**1.组件仓库**
+**1.NeoUI组件**
 
 包含所有UI组件
 
@@ -15,36 +15,38 @@ Neoui整体由以下几个仓库组成：
 * [neoui-tree](https://github.com/iuap-design/neoui-tree):tree列表相关组件
 * [neoui-datetimepicker](https://github.com/iuap-design/neoui-datetimepicker):datetimepicker日期相关组件
 
-**2.适配器仓库**
+**2.kero-adapter适配器**
 
-`组件仓库`和`数据绑定仓库`的连接器
+`NeoUI组件`和`kero数据绑定`的连接器
 
 * [kero-adapter](https://github.com/iuap-design/kero-adapter):关联ui组件和kero数据绑定
 
-**3.数据绑定仓库**
+**3.kero数据绑定**
 
 用于进行数据绑定
 
 * [kero](https://github.com/iuap-design/kero):组件数据绑定
 
-**4.打包输出仓库**
+**4.generate打包输出**
 
-打包`组建仓库`、`适配器仓库`、`数据绑定仓库`，输出完整文件
+打包`NeoUI组件`、`kero-adapter适配器`、`kero数据绑定`，输出完整文件
 
-* [generate-uui](https://github.com/iuap-design/generate-uui):打包输出完整Neoui文件
+* [generate-uui](https://github.com/iuap-design/generate-uui):打包输出完整文件,包含`u.js`,`u.css`(暂用之前打包名称)
 
+
+**5.uba完整构建方案**
+
+* 后续推出，目前使用`gulp+webpack+babel`方案
 
 ##  重构进行
 
 重构思路如下：
 
-* 功能拆分：UI及适配器仓库，根据插件功能进行拆分解，实现功能独立，方便后期维护
-
-
+* 功能拆分：`NeoUI组件`及`kero-adapter适配器`，根据插件功能进行拆分解，实现功能独立，方便后期维护
 * 功能依赖：使用`es6`的`import`，`export`将独立功能进行模块化管理
-* 自动化构建：`gulp + webpack + babel`进行自动化构建输出
+* 自动化构建：目前为`gulp + webpack + babel`进行自动化构建输出，后续提供`uba`完整构建方案
 * 发布：各仓库均通过`npm publish`进行发布
-* 插件拆分：完成整体输出测试后，拆分各插件，建立各仓库实现从ui渲染，事件绑定，数据绑定的完整独立效果
+* 插件拆分：完成整体输出测试后，拆分各插件，建立各仓库实现从ui渲染，事件绑定，数据绑定的完整插件效果
 
 ## 仓库基本目录结构
 
