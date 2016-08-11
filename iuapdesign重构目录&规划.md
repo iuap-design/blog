@@ -15,7 +15,6 @@ iuap design整体由以下多个仓库组成：
 * [neoui](https://github.com/iuap-design/neoui):主要ui组件
 * [neoui-grid](https://github.com/iuap-design/neoui-grid):grid表单相关组件
 * [neoui-tree](https://github.com/iuap-design/neoui-tree):tree列表相关组件
-* [neoui-datetimepicker](https://github.com/iuap-design/neoui-datetimepicker):datetimepicker日期相关组件
 
 
 **2.kero-adapter适配器**
@@ -79,9 +78,17 @@ iuap design整体由以下多个仓库组成：
 
 └── webpack.config.js 配置文件
 
-
-## 目前规划
+## 目前进展
 
 * [neoui-datetimepicker](https://github.com/iuap-design/neoui-datetimepicker)组件仓库并入`neoui`组件
 
+* 完成`sparrow`,`neoui`,`kero`,`kero-adapter`es6重构，输出第一版重构后的`u.js`,基本信息如下:
+
+  | 目录           | 压缩前  | 压缩后  | 备注               |
+  | ------------ | ---- | ---- | ---------------- |
+  | sparrow      | 124  | 51   |                  |
+  | neoui        | 528  | 243  | 包含datatimepicker |
+  | kero-adapter | 438  | 207  |                  |
+  | kero         | 220  | 86   |                  |
+  | generate-uui | 680  | 313  |                  |
 
