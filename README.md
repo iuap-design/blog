@@ -33,6 +33,7 @@
 - [iUAP Design 设计语言](https://github.com/iuap-design/blog/issues/7)
 - [iUAPDesign 主题色与更换机制](https://github.com/iuap-design/blog/issues/22)
 - [iUAP Design 相关名词的官方解释](https://github.com/iuap-design/blog/issues/43)
+- [解释一下什么是iuap design设计语言](https://github.com/iuap-design/blog/issues/103)
 
 ## `JavaScript` 系列文章
 
@@ -42,7 +43,8 @@
 - [JavaScript 函数继承的几种方法](https://github.com/iuap-design/blog/issues/96)
 - [正则基础](https://github.com/iuap-design/blog/issues/99)
 - [JavaScript代码覆盖率工具 Istanbul入门](https://github.com/iuap-design/blog/issues/100)
-- [Sass拾遗](https://github.com/iuap-design/blog/issues/101)
+- [js和jQuery跨域示例-请求实时天气](https://github.com/iuap-design/blog/issues/106)
+- [js中cookie介绍以及使用](https://github.com/iuap-design/blog/issues/107)
 
 ## `CSS` 系列文章
 
@@ -51,6 +53,7 @@
 - [CSS3 transition 笔记](https://github.com/iuap-design/blog/issues/40)
 - [浏览器兼容之浏览器版本处理](https://github.com/iuap-design/blog/issues/27)
 - [CSS-Grid Layout](https://github.com/iuap-design/blog/issues/78)
+- [Sass拾遗](https://github.com/iuap-design/blog/issues/101)
 
 ## `Webpack` 系列文章
 
@@ -72,6 +75,7 @@
 - [自己动手写Knockoutjs - 实现计算属性和计算属性的依赖收集](https://github.com/iuap-design/blog/issues/32)
 - [自己动手写Knockoutjs - 可监控数组](https://github.com/iuap-design/blog/issues/49)
 - [自己动手写Knockoutjs - 判断observable对象的方法和更多的绑定](https://github.com/iuap-design/blog/issues/50)
+- [KO 的计算属性 computed 上篇](https://github.com/iuap-design/blog/issues/105)
 
 ## `Gulp`系列文章
 
@@ -112,6 +116,7 @@
 - [JS四种数据类型检测的方法](https://github.com/iuap-design/blog/issues/74)
 - [通俗易懂！超全面的移动端尺寸基础知识科普指南](https://github.com/iuap-design/blog/issues/75)
 - [JavaScript BDD Test：mocha + should.js的基本使用介绍](https://github.com/iuap-design/blog/issues/76)
+- [前端工程师所需要知道的CSRF跨站请求伪造攻击](https://github.com/iuap-design/blog/issues/108)
 
 ## 工作思考感悟
 
@@ -121,3 +126,4 @@
 - [第一周工作感悟](https://github.com/iuap-design/blog/issues/10)
 - [6月12-6月17日~工作思考篇](https://github.com/iuap-design/blog/issues/13)
 - [对日常开发的两点建议](https://github.com/iuap-design/blog/issues/16)
+- [工欲善其事HHKB Pro2](https://github.com/iuap-design/blog/issues/104)
