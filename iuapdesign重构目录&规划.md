@@ -92,3 +92,36 @@ iuap design整体由以下多个仓库组成：
   | kero         | 220  | 86   |                  |
   | generate-uui | 680  | 313  |                  |
 
+
+
+
+## 输出测试流程
+
+以下介绍为输出u.js流程。
+
+* 依赖关系
+
+  各仓库之间，通过npm install对应的包进行依赖。
+
+  | 目录           | 依赖                 |
+  | ------------ | ------------------ |
+  | sparrow      | -                  |
+  | neoui        | sparrow            |
+  | kero         | sparrow            |
+  | kero-adapter | sparrow,neoui,kero |
+
+* 仓库源码
+
+  各仓库源码在根目录的`js`文件
+
+* 输出u.js
+
+  为规避npm发包繁琐流程，建议采用以下方式输出`u.js `进行测试
+
+  1. 各仓库完成源码修改后，请在依赖此库的仓库中，找到`kero-adapter`中对应的`node_modules`下的同名文件包，用修改后的`js`目录替换对应同名文件下的对应目录
+
+     > 注意1）sparrow在node_modules中名为neoui-sparrow; 2) 如包管理器有不同层级的node_modules,请注意将下一级中对应的文件目录进行相应替换
+
+  2. kero-adapter 仓库执行`npm run product`即可在`dist`产出最终的`u.js`
+
+  ​
