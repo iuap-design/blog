@@ -118,7 +118,7 @@ iuap design整体由以下多个仓库组成：
 
   为规避npm发包繁琐流程，建议采用以下方式输出`u.js `进行测试
 
-  1. 各仓库完成源码修改后，请在依赖此库的仓库中，找到`kero-adapter`中对应的`node_modules`下的同名文件包，用修改后的`js`目录替换对应同名文件下的对应目录
+  1. 各仓库完成源码修改后，请在`kero-adapter`仓库中`node_modules`下找到同名文件包，用修改后的`js`目录替换对应同名文件下的对应目录
 
      > 注意1）sparrow在node_modules中名为neoui-sparrow; 2) 如包管理器有不同层级的node_modules,请注意将下一级中对应的文件目录进行相应替换
 
