@@ -81,19 +81,9 @@ iuap design整体由以下多个仓库组成：
 ## 目前进展
 
 * [neoui-datetimepicker](https://github.com/iuap-design/neoui-datetimepicker)组件仓库并入`neoui`组件
-
-* 完成`sparrow`,`neoui`,`kero`,`kero-adapter`es6重构，输出第一版重构后的`u.js`,基本信息如下:
-
-  | 目录           | 压缩前  | 压缩后  | 备注               |
-  | ------------ | ---- | ---- | ---------------- |
-  | sparrow      | 124  | 51   |                  |
-  | neoui        | 528  | 243  | 包含datatimepicker |
-  | kero-adapter | 438  | 207  |                  |
-  | kero         | 220  | 86   |                  |
-  | generate-uui | 680  | 313  |                  |
-
-
-
+* 完成`sparrow`,`neoui`,`kero`,`kero-adapter`es6重构，输出第一版重构后的`u.js`,
+* 各仓库已切换到正式的开发分支release
+* 提供自动化构建，见[utip](https://github.com/iuap-design/utip/blob/master/README.md)
 
 ## 输出测试流程
 
@@ -101,14 +91,15 @@ iuap design整体由以下多个仓库组成：
 
 * 依赖关系
 
-  各仓库之间，通过npm install对应的包进行依赖。
+  各仓库之间，通过npm install对应的包进行依赖。下图为仓库信息
 
-  | 目录           | 依赖                 |
-  | ------------ | ------------------ |
-  | sparrow      | -                  |
-  | neoui        | sparrow            |
-  | kero         | sparrow            |
-  | kero-adapter | sparrow,neoui,kero |
+  | 目录           | 依赖                 | 压缩前  | 压缩后  | 备注              |
+  | ------------ | ------------------ | ---- | ---- | --------------- |
+  | sparrow      | -                  | 125  | 52   |                 |
+  | neoui        | sparrow            | 532  | 244  | 含datetimepicker |
+  | kero         | sparrow            | 219  | 86   |                 |
+  | kero-adapter | sparrow,neoui,kero | 506  | 242  |                 |
+  | u.js         | 以上所有               | 747  | 348  |                 |
 
 * 仓库源码
 
