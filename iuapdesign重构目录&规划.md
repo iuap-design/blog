@@ -8,7 +8,7 @@ iuap design整体由以下多个仓库组成：
 
 其中`NeoUI组件`,`kero-adapter适配器`,`kero数据绑定`,`generate打包输出`为目前主要维护部分。
 
-**1.NeoUI组件**
+**1.UI组件**
 
 包含所有UI组件
 
@@ -17,23 +17,23 @@ iuap design整体由以下多个仓库组成：
 * [neoui-tree](https://github.com/iuap-design/neoui-tree):tree列表相关组件
 
 
-**2.kero-adapter适配器**
-
-`NeoUI组件`和`kero数据绑定`的适配器
-
-* [kero-adapter](https://github.com/iuap-design/kero-adapter):关联ui组件和kero数据绑定
-
-**3.kero数据绑定**
+**2.kero数据绑定**
 
 用于进行数据绑定
 
 * [kero](https://github.com/iuap-design/kero):组件数据绑定
 
-**4.generate打包输出**
+**3.kero-adapter适配器**
 
-打包`NeoUI组件`、`kero-adapter适配器`、`kero数据绑定`，输出完整文件
+`NeoUI组件`和`kero数据绑定`的适配器,用同时于打包输出产出的`u.js`文件
 
-* [generate-uui](https://github.com/iuap-design/generate-uui):打包输出完整文件,包含`u.js`,`u.css`(暂用之前打包名称)
+- [kero-adapter](https://github.com/iuap-design/kero-adapter):关联ui组件和kero数据绑定
+
+**4.generate-uui**
+
+发布到cdn,供线上使用
+
+* [generate-uui](https://github.com/iuap-design/generate-uui)
 
 
 **5.polyfill**
