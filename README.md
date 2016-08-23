@@ -34,6 +34,8 @@
 - [iUAPDesign 主题色与更换机制](https://github.com/iuap-design/blog/issues/22)
 - [iUAP Design 相关名词的官方解释](https://github.com/iuap-design/blog/issues/43)
 - [解释一下什么是iuap design设计语言](https://github.com/iuap-design/blog/issues/103)
+- [NeoUI 的控件机制](https://github.com/iuap-design/blog/issues/110)
+- [iuap design 相关文档](https://github.com/iuap-design/blog/issues/119)
 
 ## `JavaScript` 系列文章
 
@@ -45,6 +47,12 @@
 - [JavaScript代码覆盖率工具 Istanbul入门](https://github.com/iuap-design/blog/issues/100)
 - [js和jQuery跨域示例-请求实时天气](https://github.com/iuap-design/blog/issues/106)
 - [js中cookie介绍以及使用](https://github.com/iuap-design/blog/issues/107)
+- [深入JavaScript(1)：编写高质量JavaScript代码的基本要点](https://github.com/iuap-design/blog/issues/109)
+- [深入JavaScript(2)：全面解析Module模式](https://github.com/iuap-design/blog/issues/113)
+- [事件的传播](https://github.com/iuap-design/blog/issues/114)
+- [正则深入](https://github.com/iuap-design/blog/issues/116)
+- [Javascript本地存储](https://github.com/iuap-design/blog/issues/117)
+- [常用插入DOM节点方法性能分析](https://github.com/iuap-design/blog/issues/118)
 
 ## `CSS` 系列文章
 
