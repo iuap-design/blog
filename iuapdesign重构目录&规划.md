@@ -93,13 +93,15 @@ iuap design整体由以下多个仓库组成：
 
   各仓库之间，通过npm install对应的包进行依赖。下图为仓库信息
 
-  | 目录           | 依赖                 | 压缩前  | 压缩后  | 备注              |
-  | ------------ | ------------------ | ---- | ---- | --------------- |
-  | sparrow      | -                  | 125  | 52   |                 |
-  | neoui        | sparrow            | 532  | 244  | 含datetimepicker |
-  | kero         | sparrow            | 219  | 86   |                 |
-  | kero-adapter | sparrow,neoui,kero | 506  | 242  |                 |
-  | u.js         | 以上所有               | 747  | 348  |                 |
+  | 目录           | 依赖             | 压缩前  | 压缩后  | 备注                 |
+  | ------------ | -------------- | ---- | ---- | ------------------ |
+  | sparrow      | -              | 125  | 52   |                    |
+  | neoui        | sparrow        | 532  | 244  | 含datetimepicker    |
+  | kero         | sparrow        | 219  | 86   |                    |
+  | u-grid       | -              | 182  | 105  |                    |
+  | u-tree       | -              | 122  | 65   |                    |
+  | kero-adapter | 依赖以上所有         | 506  | 242  | 压缩前后单指keri-adapter |
+  | u.js         | 除grid,tree外均依赖 | 747  | 348  |                    |
 
 * 仓库源码
 
