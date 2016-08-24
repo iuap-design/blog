@@ -93,15 +93,18 @@ iuap design整体由以下多个仓库组成：
 
   各仓库之间，通过npm install对应的包进行依赖。下图为仓库信息
 
-  | 目录           | 依赖             | 压缩前  | 压缩后  | 备注                 |
-  | ------------ | -------------- | ---- | ---- | ------------------ |
-  | sparrow      | -              | 125  | 52   |                    |
-  | neoui        | sparrow        | 532  | 244  | 含datetimepicker    |
-  | kero         | sparrow        | 219  | 86   |                    |
-  | u-grid       | -              | 182  | 105  |                    |
-  | u-tree       | -              | 122  | 65   |                    |
-  | kero-adapter | 依赖以上所有         | 506  | 242  | 压缩前后单指keri-adapter |
-  | u.js         | 除grid,tree外均依赖 | 747  | 348  |                    |
+  | 目录             | 依赖                      | 压缩前  | 压缩后  | 备注                    |
+  | -------------- | ----------------------- | ---- | ---- | --------------------- |
+  | sparrow        | -                       | 125  | 52   |                       |
+  | neoui          | sparrow                 | 532  | 244  | 含datetimepicker       |
+  | kero           | sparrow                 | 219  | 86   |                       |
+  | neoui-polyfill | -                       | 31   | 12   | 针对ie8兼容               |
+  | neoui-grid     | -                       | 182  | 105  |                       |
+  | neoui-tree     | -                       | 122  | 65   |                       |
+  | kero-adapter   | 依赖以上所有                  | 506  | 242  | 压缩前后单指kero-adapter.js |
+  | u.js           | 除grid,tree,polypill外均依赖 | 747  | 348  |                       |
+
+  依赖关系补充：kero-adapter对neoui,kero,sparrow深度依赖（依赖源码），对neoui-polyfill,neoui-grid,neoui-tree浅度依赖（只依赖dist输出文件）
 
 * 仓库源码
 
