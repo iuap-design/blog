@@ -56,6 +56,8 @@
 - [正则深入](https://github.com/iuap-design/blog/issues/116)
 - [Javascript本地存储](https://github.com/iuap-design/blog/issues/117)
 - [常用插入DOM节点方法性能分析](https://github.com/iuap-design/blog/issues/118)
+- [jquery Sortable](https://github.com/iuap-design/blog/issues/120)
+- [深入JavaScript(3)：立即执行的函数表达式](https://github.com/iuap-design/blog/issues/121)
 
 ## `CSS` 系列文章
 
@@ -87,6 +89,7 @@
 - [自己动手写Knockoutjs - 可监控数组](https://github.com/iuap-design/blog/issues/49)
 - [自己动手写Knockoutjs - 判断observable对象的方法和更多的绑定](https://github.com/iuap-design/blog/issues/50)
 - [KO 的计算属性 computed 上篇](https://github.com/iuap-design/blog/issues/105)
+- [KO 的计算属性 computed 中篇](https://github.com/iuap-design/blog/issues/124)
 
 ## `Gulp`系列文章
 
@@ -101,6 +104,7 @@
 - [【转】同步与异步&阻塞与非阻塞](https://github.com/iuap-design/blog/issues/35)
 - [使用forever管理我们的app](https://github.com/iuap-design/blog/issues/24)
 - [Node-Stream入门示例(草稿)](https://github.com/iuap-design/blog/issues/70)
+- [使用node.js来实现简单爬虫](https://github.com/iuap-design/blog/issues/125)
 
 ## 工具使用,技巧类文章
 
@@ -111,6 +115,7 @@
 - [gitbook使用问题解决方案](https://github.com/iuap-design/blog/issues/9)
 - [Chrome调试相关](https://github.com/iuap-design/blog/issues/72)
 - [如何使用github发现优秀的开源项目](https://github.com/iuap-design/blog/issues/77)
+- [ESLint入门](https://github.com/iuap-design/blog/issues/126)
 
 ## 其它技术文章
 
@@ -128,6 +133,7 @@
 - [通俗易懂！超全面的移动端尺寸基础知识科普指南](https://github.com/iuap-design/blog/issues/75)
 - [JavaScript BDD Test：mocha + should.js的基本使用介绍](https://github.com/iuap-design/blog/issues/76)
 - [前端工程师所需要知道的CSRF跨站请求伪造攻击](https://github.com/iuap-design/blog/issues/108)
+- [curl初了解](https://github.com/iuap-design/blog/issues/123)
 
 ## 工作思考感悟
 
@@ -138,3 +144,5 @@
 - [6月12-6月17日~工作思考篇](https://github.com/iuap-design/blog/issues/13)
 - [对日常开发的两点建议](https://github.com/iuap-design/blog/issues/16)
 - [工欲善其事HHKB Pro2](https://github.com/iuap-design/blog/issues/104)
+- [iuap design官网中的页面修改及测试](https://github.com/iuap-design/blog/issues/122)
+- [下一步我们该怎么走](https://github.com/iuap-design/blog/issues/127)
