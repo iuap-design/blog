@@ -60,6 +60,7 @@
 - [深入JavaScript(3)：立即执行的函数表达式](https://github.com/iuap-design/blog/issues/121)
 - [深入JavaScript(4)：原型和原型链](https://github.com/iuap-design/blog/issues/130)
 - [JS四种数据类型检测的方法](https://github.com/iuap-design/blog/issues/74)
+- [ES6箭头函数](https://github.com/iuap-design/blog/issues/138)
 
 ## `CSS` 系列文章
 
@@ -71,6 +72,7 @@
 - [Sass拾遗](https://github.com/iuap-design/blog/issues/101)
 - [CSS箭头－茴的几种写法](https://github.com/iuap-design/blog/issues/132)
 - [css选择器](https://github.com/iuap-design/blog/issues/133)
+- [CSS中规则@media的用法](https://github.com/iuap-design/blog/issues/136)
 
 ## `Webpack` 系列文章
 
@@ -88,6 +90,8 @@
 
 ## `React`系列文章
 - [基于Decorator的react组件扩展](https://github.com/iuap-design/blog/issues/128)
+- [React 组件库调研](https://github.com/iuap-design/blog/issues/134)
+- [React 快速入门学习](https://github.com/iuap-design/blog/issues/139)
 
 ## `Knockoutjs`系列文章
 
@@ -125,6 +129,7 @@
 - [Chrome调试相关](https://github.com/iuap-design/blog/issues/72)
 - [如何使用github发现优秀的开源项目](https://github.com/iuap-design/blog/issues/77)
 - [ESLint入门](https://github.com/iuap-design/blog/issues/126)
+- [教你使用gitbook和markdown来写一本书](https://github.com/iuap-design/blog/issues/135)
 
 ## 其它技术文章
 
@@ -142,6 +147,7 @@
 - [JavaScript BDD Test：mocha + should.js的基本使用介绍](https://github.com/iuap-design/blog/issues/76)
 - [前端工程师所需要知道的CSRF跨站请求伪造攻击](https://github.com/iuap-design/blog/issues/108)
 - [curl初了解](https://github.com/iuap-design/blog/issues/123)
+- [浅谈前端的模块化(一)](https://github.com/iuap-design/blog/issues/137)
 
 ## 工作思考感悟
 
