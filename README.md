@@ -58,6 +58,9 @@
 - [常用插入DOM节点方法性能分析](https://github.com/iuap-design/blog/issues/118)
 - [jquery Sortable](https://github.com/iuap-design/blog/issues/120)
 - [深入JavaScript(3)：立即执行的函数表达式](https://github.com/iuap-design/blog/issues/121)
+- [深入JavaScript(4)：原型和原型链](https://github.com/iuap-design/blog/issues/130)
+- [JS四种数据类型检测的方法](https://github.com/iuap-design/blog/issues/74)
+- [ES6箭头函数](https://github.com/iuap-design/blog/issues/138)
 
 ## `CSS` 系列文章
 
@@ -67,6 +70,9 @@
 - [浏览器兼容之浏览器版本处理](https://github.com/iuap-design/blog/issues/27)
 - [CSS-Grid Layout](https://github.com/iuap-design/blog/issues/78)
 - [Sass拾遗](https://github.com/iuap-design/blog/issues/101)
+- [CSS箭头－茴的几种写法](https://github.com/iuap-design/blog/issues/132)
+- [css选择器](https://github.com/iuap-design/blog/issues/133)
+- [CSS中规则@media的用法](https://github.com/iuap-design/blog/issues/136)
 
 ## `Webpack` 系列文章
 
@@ -80,6 +86,12 @@
 - [webpack 完全教程-08-使用UglifyJs Plugin压缩资源](https://github.com/iuap-design/blog/issues/64)
 - [webpack 完全教程-09-多入口文件编译](https://github.com/iuap-design/blog/issues/65)
 - [webpack 完全教程-10-devtool让源码在浏览器中可调试](https://github.com/iuap-design/blog/issues/66)
+- [webpack中require-ensure和require-amd的区别](https://github.com/iuap-design/blog/edit/master/README.md)
+
+## `React`系列文章
+- [基于Decorator的react组件扩展](https://github.com/iuap-design/blog/issues/128)
+- [React 组件库调研](https://github.com/iuap-design/blog/issues/134)
+- [React 快速入门学习](https://github.com/iuap-design/blog/issues/139)
 
 ## `Knockoutjs`系列文章
 
@@ -106,6 +118,7 @@
 - [Node-Stream入门示例(草稿)](https://github.com/iuap-design/blog/issues/70)
 - [使用node.js来实现简单爬虫](https://github.com/iuap-design/blog/issues/125)
 
+
 ## 工具使用,技巧类文章
 
 - [使用jekyll快速搭建静态博客](https://github.com/iuap-design/blog/issues/3)
@@ -116,6 +129,7 @@
 - [Chrome调试相关](https://github.com/iuap-design/blog/issues/72)
 - [如何使用github发现优秀的开源项目](https://github.com/iuap-design/blog/issues/77)
 - [ESLint入门](https://github.com/iuap-design/blog/issues/126)
+- [教你使用gitbook和markdown来写一本书](https://github.com/iuap-design/blog/issues/135)
 
 ## 其它技术文章
 
@@ -129,11 +143,11 @@
 - [material design中的波纹效果的原理与实现](https://github.com/iuap-design/blog/issues/69)
 - [ES6代码重构之class简单应用同时支持方法定制](https://github.com/iuap-design/blog/issues/71)
 - [简要分析ES5/6原型链继承](https://github.com/iuap-design/blog/issues/73)
-- [JS四种数据类型检测的方法](https://github.com/iuap-design/blog/issues/74)
 - [通俗易懂！超全面的移动端尺寸基础知识科普指南](https://github.com/iuap-design/blog/issues/75)
 - [JavaScript BDD Test：mocha + should.js的基本使用介绍](https://github.com/iuap-design/blog/issues/76)
 - [前端工程师所需要知道的CSRF跨站请求伪造攻击](https://github.com/iuap-design/blog/issues/108)
 - [curl初了解](https://github.com/iuap-design/blog/issues/123)
+- [浅谈前端的模块化(一)](https://github.com/iuap-design/blog/issues/137)
 
 ## 工作思考感悟
 
