@@ -17,7 +17,7 @@
 | 原仓库名                                     | 新仓库名                | 原npm           | 新npm                |
 | ---------------------------------------- | ------------------- | -------------- | ------------------- |
 | [kero-adapter](https://github.com/iuap-design/kero-adapter) | tinper-kero-adapter | kero-adapter   | tinper-kero-adapter |
-| [neoui-grid](https://github.com/iuap-design/neoui-grid) | tinper-grid         | neoui-grid     | tinper-grid         |
+| [neoui-grid](https://github.com/iuap-design/neoui-grid) | tinper-ui-grid      | neoui-grid     | tinper-grid         |
 | [generate-uui](https://github.com/iuap-design/generate-uui) | tinper-cdn          | -              | -                   |
 | [neoui](https://github.com/iuap-design/neoui) | tinper-ui           | neoui          | tinper-ui           |
 | [neoui-polyfill](https://github.com/iuap-design/neoui-polyfill) | tinper-ui-polyfill  | neoui-polyfill | tinper-ui-polyfill  |
