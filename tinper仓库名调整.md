@@ -14,19 +14,21 @@
 
 #### 命名更改
 
-| 原仓库名                                     | 新仓库名                | 原npm           | 新npm                |
-| ---------------------------------------- | ------------------- | -------------- | ------------------- |
-| [kero-adapter](https://github.com/iuap-design/kero-adapter) | tinper-kero-adapter | kero-adapter   | tinper-kero-adapter |
-| [neoui-grid](https://github.com/iuap-design/neoui-grid) | tinper-ui-grid      | neoui-grid     | tinper-grid         |
-| [generate-uui](https://github.com/iuap-design/generate-uui) | tinper-cdn          | -              | -                   |
-| [neoui](https://github.com/iuap-design/neoui) | tinper-ui           | neoui          | tinper-ui           |
-| [neoui-polyfill](https://github.com/iuap-design/neoui-polyfill) | tinper-ui-polyfill  | neoui-polyfill | tinper-ui-polyfill  |
-| [neoui-tree](https://github.com/iuap-design/neoui-tree) | tinper-ui-tree      | neoui-tree     | tinper-ui-tree      |
-| [kero](https://github.com/iuap-design/kero) | tinper-kero         | kero           | tinper-kero         |
-| [sparrow](https://github.com/iuap-design/sparrow) | tinper-sparrow      | neoui-sparrow  | tinper-sparrow      |
-| [neoui-datetimepicker](https://github.com/iuap-design/neoui-datetimepicker) | 删除                  | -              | -                   |
-| [neoui-knockout](https://github.com/iuap-design/neoui-knockout) |                     | neoui-knockout |                     |
-| [templates](https://github.com/iuap-design/templates) | tinper-templates    | -              | -                   |
+| 原仓库名                                     | 新仓库名                  | 原npm           |
+| ---------------------------------------- | --------------------- | -------------- |
+| [kero-adapter](https://github.com/iuap-design/kero-adapter) | xxx                   | kero-adapter   |
+| [neoui-grid](https://github.com/iuap-design/neoui-grid) | tinper-neoui-grid     | neoui-grid     |
+| [generate-uui](https://github.com/iuap-design/generate-uui) | tinper-cdn            | -              |
+| [neoui](https://github.com/iuap-design/neoui) | tinper-neoui          | neoui          |
+| [neoui-polyfill](https://github.com/iuap-design/neoui-polyfill) | tinper-neoui-polyfill | neoui-polyfill |
+| [neoui-tree](https://github.com/iuap-design/neoui-tree) | tinper-neoui-tree     | neoui-tree     |
+| [kero](https://github.com/iuap-design/kero) | xxx                   | kero           |
+| [sparrow](https://github.com/iuap-design/sparrow) | tinper-sparrow        | neoui-sparrow  |
+| [neoui-datetimepicker](https://github.com/iuap-design/neoui-datetimepicker) | 删除                    | -              |
+| [neoui-knockout](https://github.com/iuap-design/neoui-knockout) |                       | neoui-knockout |
+| [templates](https://github.com/iuap-design/templates) | xxx                   | -              |
+| tinper-bee                               | tinper-react          |                |
+| tinper-uba                               | tinper-tools          |                |
 
 #### 依赖关系
 
