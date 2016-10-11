@@ -19,7 +19,7 @@ $ git remote set-url origin *new path*
 | **neoui**          | tinper-neoui          | utip,kero-adapter                        |
 | **neoui-grid**     | tinper-neoui-grid     | utip,kero-adapter                        |
 | **neoui-tree**     | tinper-neoui-tree     | utip,kero-adapter                        |
-| **sparrow**        |                       |                                          |
+| **sparrow**        | tinper-sparrow        | neoui,kero,polyfill, adapter,utip,定制     |
 |                    |                       |                                          |
 
 
@@ -50,6 +50,13 @@ neoui
 * *定制下载的依赖还没有更改*tinper & iuap-design
 * utip build/publish 依赖
 
+
+定制下载
+
+* category.js -> tinper-neoui
+* neoui.json
+* pack.js
+* page/package.js
 
 
 
