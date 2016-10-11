@@ -12,15 +12,16 @@
 $ git remote set-url origin *new path*
 ```
 
-| 原仓库                | 新仓库                   | 配套更改                                     |
-| ------------------ | --------------------- | ---------------------------------------- |
-| **generate-uui**   | cdn                   | 本地，远程服务器更新                               |
-| **neoui-polyfill** | tinper-neoui-polyfill | utip,tinper.org,iuap-design.org,kero-adapter |
-| **neoui**          | tinper-neoui          | utip,kero-adapter                        |
-| **neoui-grid**     | tinper-neoui-grid     | utip,kero-adapter                        |
-| **neoui-tree**     | tinper-neoui-tree     | utip,kero-adapter                        |
-| **sparrow**        | tinper-sparrow        | neoui,kero,polyfill, adapter,utip,定制     |
-|                    |                       |                                          |
+| 原仓库                | 新仓库                   | 配套更改                                     | 初始版本号 |
+| ------------------ | --------------------- | ---------------------------------------- | ----- |
+| **generate-uui**   | cdn                   | 本地，远程服务器更新                               |       |
+| **neoui-polyfill** | tinper-neoui-polyfill | utip,tinper.org,iuap-design.org,kero-adapter | 0.1.0 |
+| **neoui**          | tinper-neoui          | utip,kero-adapter                        | 0.1.0 |
+| **neoui-grid**     | tinper-neoui-grid     | utip,kero-adapter                        | 0.1.0 |
+| **neoui-tree**     | tinper-neoui-tree     | utip,kero-adapter                        | 0.1.0 |
+| **sparrow**        | tinper-sparrow        | neoui,kero,polyfill, adapter,utip,定制     | 0.1.0 |
+| kero               | kero                  |                                          | 3.5.0 |
+| kero-adapter       | kero-adapter          |                                          | 1.6.0 |
 
 
 
