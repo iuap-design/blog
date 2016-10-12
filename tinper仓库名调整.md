@@ -1,20 +1,70 @@
 # tinper仓库名调整
 
-> 备注：tin per.org缺少自动更新polyfill,kero-adapter脚本
->
-> 文本还未更新
+#### 已完成调整仓库
 
-#### 目前更改进度
+目前已对以下仓库做了调整：
 
-更改远程地址方法：
+* **neoui-polyfill**  ->  tinper-neoui-polyfill
+* **neoui** ->  tinper-neoui
+* **neoui-grid** -> tinper-neoui-grid
+* **neoui-tree** -> tinper-neoui-tree
+* **sparrow** -> tinper-sparrow
+
+以下仓库名未做调整，但需要更改依赖
+
+* **kero**
+
+* **kero-adapter**
+
+* tinper.org
+
+* iuap-design.github.io
+
+* generate-uui
+
+建议迁移步骤
+1.本地删除以下仓库
+
+* neoui-polyfill
+* neoui
+* neoui-grid
+* neoui-tree
+* sparrow
+* kero
+* kero-adapter
+
+2.升级`utip`至`1.3.5`
+
+```
+npm install -g utip@1.3.5
+```
+3.执行`utip build`可`clone`并自动执行`cnpm install`更新
+
+```
+utip build
+```
+4.以下三仓库tinper.org,iuap-design.github.io,generate-uui.删除`node_modules`，执行`npm install`
+
+```
+cd tinper.org
+rm -rf node_modules/
+npm install
+```
+备注：
+
+如本地不删除仓库，可自行更新远程地址，更改远程地址方法。更改远程地址后，重复以上第4步
 
 ```shell
 $ git remote set-url origin *new path*
 ```
+***
+
+以下为本次仓库调整概述：
+
 
 | 原仓库                | 新仓库                   | 配套更改                                     | 初始版本号 |
 | ------------------ | --------------------- | ---------------------------------------- | ----- |
-| **generate-uui**   | cdn                   | 本地，远程服务器更新                               |       |
+| **generate-uui**   | generate-uui          | 原定cdn仓库名，暂不更改                            | -     |
 | **neoui-polyfill** | tinper-neoui-polyfill | utip,tinper.org,iuap-design.org,kero-adapter | 0.1.0 |
 | **neoui**          | tinper-neoui          | utip,kero-adapter                        | 0.1.0 |
 | **neoui-grid**     | tinper-neoui-grid     | utip,kero-adapter                        | 0.1.0 |
