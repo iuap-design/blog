@@ -23,6 +23,7 @@
 * generate-uui
 
 建议迁移步骤
+
 1.本地删除以下仓库
 
 * neoui-polyfill
@@ -38,10 +39,10 @@
 ```
 npm install -g utip@1.3.5
 ```
-3.执行`utip build`可`clone`并自动执行`cnpm install`更新
+3.执行`utip pull`可`clone`并自动执行`cnpm install`更新
 
 ```
-utip build
+utip pull
 ```
 4.以下三仓库tinper.org,iuap-design.github.io,generate-uui.删除`node_modules`，执行`npm install`
 
@@ -57,6 +58,10 @@ npm install
 ```shell
 $ git remote set-url origin *new path*
 ```
+
+
+
+
 ***
 
 以下为本次仓库调整概述：
