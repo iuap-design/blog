@@ -43,5 +43,5 @@ class Demo1 extends Component {
 ###生成规则
 
 * demolist下的*.js会跟index-demo-base.js合并，
-* 发布到demo目录下index.js,
+* 命名为index.js,发布到demo目录下
 * 编译成demo.js,发布到dist目录下
