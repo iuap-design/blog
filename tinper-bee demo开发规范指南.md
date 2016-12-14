@@ -37,7 +37,7 @@ class Demo1 extends Component {
 ```
 *  class Demo1 要求跟文件命名一致，首字母大写
 *  @title 定义标题内容，长度截取后面20个字符
-*  @title 定义描述内容，长度截取后面30个字符
+*  @description 定义描述内容，长度截取后面30个字符
 *  Demo1.js 文件命名要求首字母大写，后面添加整数
 
 
