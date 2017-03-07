@@ -61,6 +61,7 @@
 - [深入JavaScript(4)：原型和原型链](https://github.com/iuap-design/blog/issues/130)
 - [JS四种数据类型检测的方法](https://github.com/iuap-design/blog/issues/74)
 - [ES6箭头函数](https://github.com/iuap-design/blog/issues/138)
+- [JSDoc](https://github.com/iuap-design/blog/issues/169)
 
 ## `CSS` 系列文章
 
@@ -73,6 +74,8 @@
 - [CSS箭头－茴的几种写法](https://github.com/iuap-design/blog/issues/132)
 - [css选择器](https://github.com/iuap-design/blog/issues/133)
 - [CSS中规则@media的用法](https://github.com/iuap-design/blog/issues/136)
+- [响应式布局](https://github.com/iuap-design/blog/issues/165)
+- [flex实现圣杯布局](https://github.com/iuap-design/blog/issues/167)
 
 ## `Webpack` 系列文章
 
@@ -86,12 +89,16 @@
 - [webpack 完全教程-08-使用UglifyJs Plugin压缩资源](https://github.com/iuap-design/blog/issues/64)
 - [webpack 完全教程-09-多入口文件编译](https://github.com/iuap-design/blog/issues/65)
 - [webpack 完全教程-10-devtool让源码在浏览器中可调试](https://github.com/iuap-design/blog/issues/66)
-- [webpack中require-ensure和require-amd的区别](https://github.com/iuap-design/blog/edit/master/README.md)
+- [webpack中require-ensure和require-amd的区别](https://github.com/iuap-design/blog/issues/131)
+- [webpack-dashboard让你的webpack具有可视化效果](https://github.com/iuap-design/blog/issues/153)
+- [package.json各个字段解读](https://github.com/iuap-design/blog/issues/156)
 
 ## `React`系列文章
 - [基于Decorator的react组件扩展](https://github.com/iuap-design/blog/issues/128)
 - [React 组件库调研](https://github.com/iuap-design/blog/issues/134)
 - [React 快速入门学习](https://github.com/iuap-design/blog/issues/139)
+- [快速了解mobx+react](https://github.com/iuap-design/blog/issues/152)
+
 
 ## `Knockoutjs`系列文章
 
@@ -117,6 +124,11 @@
 - [使用forever管理我们的app](https://github.com/iuap-design/blog/issues/24)
 - [Node-Stream入门示例(草稿)](https://github.com/iuap-design/blog/issues/70)
 - [使用node.js来实现简单爬虫](https://github.com/iuap-design/blog/issues/125)
+- [node的异步非阻塞特点解读](https://github.com/iuap-design/blog/issues/154)
+
+
+## `es6`系列文章
+- [es6-cheatsheet](https://github.com/iuap-design/blog/issues/162)
 
 
 ## 工具使用,技巧类文章
@@ -130,6 +142,11 @@
 - [如何使用github发现优秀的开源项目](https://github.com/iuap-design/blog/issues/77)
 - [ESLint入门](https://github.com/iuap-design/blog/issues/126)
 - [教你使用gitbook和markdown来写一本书](https://github.com/iuap-design/blog/issues/135)
+- [git账号切换，提交代码被拒绝的问题](https://github.com/iuap-design/blog/issues/144)
+- [npm publish 发布失败常见错误总结](https://github.com/iuap-design/blog/issues/145)
+- [让你的md文档可折叠化展示](https://github.com/iuap-design/blog/issues/155)
+- [用isitmaintained来显示github上仓库的issue处理情况](https://github.com/iuap-design/blog/issues/157)
+- [注释提取与规范](https://github.com/iuap-design/blog/issues/166)
 
 ## 其它技术文章
 
@@ -148,6 +165,15 @@
 - [前端工程师所需要知道的CSRF跨站请求伪造攻击](https://github.com/iuap-design/blog/issues/108)
 - [curl初了解](https://github.com/iuap-design/blog/issues/123)
 - [浅谈前端的模块化(一)](https://github.com/iuap-design/blog/issues/137)
+- [ios9第三方应用滑动卡顿问题记录](https://github.com/iuap-design/blog/issues/147)
+- [动效微交互](https://github.com/iuap-design/blog/issues/149)
+- [企业级应用的国际化解决方案（前端部分）](https://github.com/iuap-design/blog/issues/158)
+- [使用json-server轻松模拟rest api](https://github.com/iuap-design/blog/issues/168)
+- [使用moy快速开发后台管理系统（一）](https://github.com/iuap-design/blog/issues/170)
+- [使用moy快速开发后台管理系统（二）](https://github.com/iuap-design/blog/issues/171)
+- [使用moy快速开发后台管理系统（三）](https://github.com/iuap-design/blog/issues/172)
+- [使用moy快速开发后台管理系统（四）](https://github.com/iuap-design/blog/issues/173)
+- [使用moy快速开发后台管理系统（五）](https://github.com/iuap-design/blog/issues/174)
 
 ## 工作思考感悟
 
@@ -160,3 +186,4 @@
 - [工欲善其事HHKB Pro2](https://github.com/iuap-design/blog/issues/104)
 - [iuap design官网中的页面修改及测试](https://github.com/iuap-design/blog/issues/122)
 - [下一步我们该怎么走](https://github.com/iuap-design/blog/issues/127)
+- [像写代码一样写文档，严谨！像写文档一样写代码，规范！](https://github.com/iuap-design/blog/issues/164)
