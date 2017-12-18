@@ -4,9 +4,9 @@
 
 ## 一分钟了解 tinper
 
-tinper 是集开发工具、开发框架、UI解决方案、数据Mock方案、开发服务等一体化全链路的前端开发平台，tinper 秉持开源精神，致力于企业极速上云过程中提供泛端解决方案。
+tinper 是集开发工具体系、开发框架体系、UI组件体系、数据Mock服务、应用开发服务等一体化全链路的大前端开发平台，tinper 秉持开源精神，致力于在企业极速上云过程中提供泛端解决方案。
 
-![Alt text](./1513564761072.png)
+![Alt text](https://user-images.githubusercontent.com/8686869/34088571-1d2779bc-e3e5-11e7-861c-b589d63ea3cc.png)
 
 ## 为什么选择 tinper
 
@@ -15,10 +15,11 @@ tinper 是集开发工具、开发框架、UI解决方案、数据Mock方案、�
 - 丰富的组件体系
 - 文档示例齐全
 
-![Alt text](./1513564923230.png)
+![Alt text](https://user-images.githubusercontent.com/8686869/34088687-e6321bbe-e3e5-11e7-9603-cd33ddbf094a.png)
 
 > （技术栈的logo）基于业界优秀的技术实践：Node.js、React、webpack、ECMASCRIPT2015-2018、HTML5、CSS3、Jest、Babel、NPM、Knockout.js、Redux、D3.js、Electron、Atom
 
+![](https://user-images.githubusercontent.com/8686869/34088692-ef5671ae-e3e5-11e7-860f-c2d99e1ed88c.png)
 
 ## 客户案例及适用性
 >（以产品的logo或产品名呈现）
@@ -33,4 +34,6 @@ tinper 是集开发工具、开发框架、UI解决方案、数据Mock方案、�
 **覆盖行业**
 
 财务类、协同类、智能制造类、人力服务类
+
+![](https://user-images.githubusercontent.com/8686869/34088700-f882a932-e3e5-11e7-8b2d-76fc85f8067a.png)
 
