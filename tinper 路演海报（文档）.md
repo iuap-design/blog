@@ -6,6 +6,7 @@
 
 tinper 是集开发工具、开发框架、UI解决方案、数据Mock方案、开发服务等一体化全链路的前端开发平台，tinper 秉持开源精神，致力于企业极速上云过程中提供泛端解决方案。
 
+![Alt text](./1513564761072.png)
 
 ## 为什么选择 tinper
 
@@ -16,16 +17,11 @@ tinper 是集开发工具、开发框架、UI解决方案、数据Mock方案、�
 
 ![Alt text](./1513564923230.png)
 
-**基于业界优秀的技术实践**
-（技术栈的logo）
-Node.js、React、webpack、ECMASCRIPT2015-2018、HTML5、CSS3、Jest、Babel、NPM、Knockout.js、Redux、D3.js、Electron、Atom
-
-![Alt text](./1513565588037.png)
+> （技术栈的logo）基于业界优秀的技术实践：Node.js、React、webpack、ECMASCRIPT2015-2018、HTML5、CSS3、Jest、Babel、NPM、Knockout.js、Redux、D3.js、Electron、Atom
 
 
 ## 客户案例及适用性
-
-**（以产品的logo或产品名呈现）**
+>（以产品的logo或产品名呈现）
 
 - 明星产品
 	- 用友云官网、玩事、NC轻量化、资金云-司库、工程云、开发者中心、智能制造、友户通、新版云工作台
