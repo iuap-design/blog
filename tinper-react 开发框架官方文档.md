@@ -2,33 +2,32 @@
 
 # tinper-react 开发框架官方文档
 
-## 1. 概述
+## 1. 框架概述
 
 - 整体介绍
 	- 是什么，为什么这么做，解决了哪些问题，有什么能力，适用于什么业务场景
-- 如何学习
+- 如何学习tinper-react
 	- 渐进式，学习方式和路线，示例，文档，指导，基础能力（基本要求）。
 
 ## 2. 安装和环境
 
 > (windows\mac)，扫除环境障碍
 
-- node 安装和 配置
+- node 安装和配置
 	- node安装和配置、npm 基本使用
-- 如何进行命令行操作
-	- git bash 或 shell 终端
-- 编码工具
-	- 介绍 推荐vscode sublime atom
+- 基本开发环境
+	- git bash 或 shell 终端、编码工具（推荐vscode sublime atom）、浏览器 Chrome
 
 
 ## 3. 快速入门
 
 > 整个应用跑起来，看到效果，动力去做下一步
 
-- (介绍uba，安装uba)初始化项目、启动、调试和开发
-- 创建简单Tinper-react页面，components,css,routes
-- 创建实例文件讲解
-- 呈现静态渲染
+- 安装和使用uba快速创建项目
+	- 介绍uba，安装uba，初始化项目、启动、看到浏览器效果
+- 创建简单 tinper-react页面
+	- 在那新建文件（components,css,routes），如何配置路由，是否看到页面效果
+- 新加功能和样式并进行调试，如何查看报错信息
 
 ## 4. 框架介绍和说明
 
